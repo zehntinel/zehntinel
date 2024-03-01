@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently Working on Sales platform and Operations process automation
 
-- 📝 I write articles on [https://adrian-galicia.dev/](https://adrian-galicia.dev/)
-
 - 💬 Ask me about **PHP, JS, Laravel,Vue, React**
 
   <br/>
